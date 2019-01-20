@@ -1,7 +1,7 @@
 # Turtle_Game
 ## This is a turtle graphics designed game. 
 
-![GitHub Game Off 2016 Theme is Hacking, Modding, or Augmenting](https://cloud.githubusercontent.com/assets/121322/19498019/d8827370-9543-11e6-82d8-6da822b6147b.png)
+![GitHub Game Off 2016 Theme is Hacking, Modding, or Augmenting](https://www.google.com/search?q=python+turtle+logo&rlz=1C1CHZL_enIN766IN766&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfgq7pmPzfAhUJv48KHarOAdcQ_AUIDigB&biw=1366&bih=695#imgrc=R9sOI43PpGBhVM:)
 
 # Further Details.
   
